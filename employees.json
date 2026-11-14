@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "username": "hr_admin",
+        "password": "admin123",
+        "name": "Sarah Khan",
+        "role": "HR",
+        "department": "Human Resources",
+        "email": "hr@company.com"
+    },
+    {
+        "id": 2,
+        "username": "emp_ali",
+        "password": "emp123",
+        "name": "Ali Ahmed",
+        "role": "Employee",
+        "department": "Engineering",
+        "email": "ali@company.com"
+    },
+    {
+        "id": 3,
+        "username": "emp_sara",
+        "password": "emp123",
+        "name": "Sara Malik",
+        "role": "Employee",
+        "department": "Marketing",
+        "email": "sara@company.com"
+    }
+]
